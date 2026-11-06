@@ -78,7 +78,7 @@ public class Sanjeev {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjeevveerapandian&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sanjeevveerapandian&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" />
 </p>
 
 <p align="center">
