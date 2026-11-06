@@ -24,7 +24,7 @@
 public class Sanjeev {
     String role       = "Full-Stack Software Engineer";
     String location   = "Chennai, India";
-    String education  = "B.E. Computer Science, Panimalar Engineering College (2026)";
+    String education  = "B.E. Computer Science, (2026)";
 
     String[] shipped  = {
         "JWT auth + RBAC for a live ticketing platform (~8,000 monthly users)",
