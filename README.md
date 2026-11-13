@@ -81,10 +81,6 @@ public class Sanjeev {
   <img src="https://streak-stats.demolab.com?user=sanjeevveerapandian&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
-</p>
-
 ---
 
 <p align="center">
